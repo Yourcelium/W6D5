@@ -1,0 +1,15 @@
+
+
+.tab-list {
+    display: flex;
+
+}
+
+.tab-header {
+    font-size: 10px;
+    border: 2px solid black;
+    width: 70px;
+    border-radius: 7px;
+    display: flex;
+    align-content: center;
+}
